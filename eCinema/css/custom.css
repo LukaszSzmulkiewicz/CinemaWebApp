@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+h1{
+	
+	color: #285873;
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+a {
+	color: #285873;
+	font-family: 'Oswald', sans-serif;
+	
+}
+th {
+	color: #285873;
+	font-family: 'Oswald', sans-serif;
+	
+	
+}
+
+
+.card{
+	margin-bottom: 20px;
+}
+
+.btn-outline-success {
+	
+	color:  #47B39F;
+	border-color: #47B39F;
+}
+
+.underline{
+	margin-bottom: 20px;
+	z-index:-100;
+	margin-top: -10px;
+}
+
+ .navbar-brand{
+	 
+	 font-family: 'Oswald', sans-serif;
+	 
+ }

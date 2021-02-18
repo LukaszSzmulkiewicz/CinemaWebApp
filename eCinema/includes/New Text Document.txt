@@ -1,0 +1,59 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="css/custom.css">
+
+    <title>eCinema</title>
+  </head>
+  <body>
+	
+   <nav class="navbar navbar-expand-lg" style= "background-color:#29665B;">
+  <a class="navbar-brand" href="index.php">
+    <img src="img/eCinemaLogo2.jpg" width="250" height="80" class="d-inline-block align-top" alt="">
+   </a>
+  <button class="navbar-toggler" style= "background-color: #29665B; border: solid 1px #59B3A2;" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"><i class="fa fa-bars" style="color:#59B3A2; font-size:28px; padding-top:2px;"></i></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+ 
+    <ul class="navbar-nav mr-auto">
+	
+         <li class="nav-item active">
+        <a class="nav-link text-white" href="#">Now Showing <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">Coming Soon</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="review.php">Movie Reviews</a>
+      </li>
+	 
+      <li class="nav-item ">
+        <a class="nav-link text-white" href="#">Find Us</a>
+      </li>
+	
+  
+	
+	</ul>
+  </div>
+  <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  
+  
+</nav><!-- end primary navigation -->
+<div class="container">
+
+  
+ 
